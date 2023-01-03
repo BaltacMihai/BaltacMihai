@@ -1,18 +1,18 @@
 
 
-  <h1 align="center">HI! I am Mihai!</h1>
+  <h1> Hey👋 I am Mihai🦁</h1>
 
 
-# Full-Stack Programmer
+# Full-Stack Programmer👩‍💻
 Hello! I'm a full-stack developer that has worked with both frontend and backend technologies. My current stack consists of the following items:
 
-## Frontend
+## Frontend 🖥
 - React
 - Vue 3
 - Astro (experimental)
 - Sass / Scss
 
-## Backend
+## Backend 🧮
 - JavaScript / Express / Node
 - C# / .net Core 6 
 
