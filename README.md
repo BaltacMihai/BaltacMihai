@@ -6,7 +6,7 @@
 # Full-Stack Programmer
 Hello! I'm a full-stack developer that has worked with both frontend and backend technologies. My current stack consists of the following items:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaltacMihai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaltacMihai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="100%"/>
 
 ## Frontend
 React
